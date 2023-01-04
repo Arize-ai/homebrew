@@ -1,4 +1,4 @@
-class ANTLR < Formula
+class Antlr < Formula
   desc ""
   homepage "github.com/michaelschiff/taps"
   url "https://github.com/michaelschiff/taps/releases/download/v2/antlr-4.11-complete.jar"
