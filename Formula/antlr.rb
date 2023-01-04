@@ -9,7 +9,7 @@ class Antlr < Formula
   def install
     libexec.install Dir["*"]
 
-    bin.write_jar_script libexec/"antlr-4.11-complete.jar", "antlr"
+    bin.write_jar_script libexec/"antlr-4.11.1-complete.jar", "antlr"
   end
 
 end
